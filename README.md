@@ -34,13 +34,8 @@ _AI-Powered Codebase Visualization_
 - Built with React, D3.js, and a custom graph traversal backend.
 - **Tech:** React, D3.js, Claude API, Python, GitHub API
 
-#### CodeGraph 3D
-_3D Call Graph Visualization_
-- Three.js-based 3D rendering of code call graphs with animated particle flows along edges.
-- Designed for deep visual exploration of large codebases.
-- **Tech:** Three.js, Python, AST parsing, WebGL
 
-#### tailorIT
+#### ResumeForge
 _AI Resume Tailoring Pipeline_
 - Three-agent pipeline (Tailor, Validation, Formatting) that rewrites resumes against job descriptions with ATS scoring.
 - Full-stack app with React/Express frontend, deployed at [dub.sh/custom-resume](https://dub.sh/custom-resume).
@@ -51,11 +46,6 @@ _Privacy-Preserving Local LLM Email Analysis_
 - Hybrid architecture: local LLM (LM Studio + Gemma 3) for on-device processing, Claude API for reasoning on sanitized signals.
 - MCP server query layer with SQLite storage.
 - **Tech:** LM Studio, Gemma 3, Claude API, MCP, SQLite, Python
-
-#### Findout AI / FindoutGPT
-_Conversational RAG System_
-- Custom RAG chatbot over 800+ field technician documents. Multimodal semantic search cut hallucinations and improved speed by 30%.
-- **Tech:** Python, LlamaIndex, ChromaDB, Docker, LLaMA-2
 
 #### AI Analytics Dashboard
 _Natural Language AdTech Backend_
